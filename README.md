@@ -1,4 +1,4 @@
-# Hi, I'm itsjotaa 👨‍💻
+# Hi, I'm itsjotaa 
 
 ### 🛡️ Focus: Reverse Engineering & Cybersecurity
 My goal isn't to be a professional developer, but to master the logic behind the code to deconstruct it. I believe that understanding how a program is built is the first step to knowing how to secure (or break) it.
